@@ -1,0 +1,28 @@
+body {
+    background-image: url(./10024372-m.jpg);
+    color: aliceblue;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: 3px solid black;
+
+}
+
+.login {
+    text-align: justify;
+    padding-top: 10%;
+    border-bottom: 2px solid black;
+
+}
+
+.recuperacao {
+    text-align: center;
+    padding-top: 50px;
+
+}
